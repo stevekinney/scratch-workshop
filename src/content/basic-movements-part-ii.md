@@ -1,5 +1,5 @@
 ---
-title: 'Basic Movements Part Ii'
+title: 'Basic Movements Part II'
 ---
 
 A relatively simple solution is doing something like this:
