@@ -32,7 +32,7 @@ pen up
 
 This code will end up with result below.
 
-<iframe class="mx-auto" title="A Scratch Playground" src="https://scratch.mit.edu/projects/882188012/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe class="mx-auto" title="Rainbow Line" src="https://scratch.mit.edu/projects/882188012/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## A Bigger Rainbow
 
@@ -54,4 +54,4 @@ repeat until <(y position) < [-179]>
 end
 ```
 
-<iframe class="mx-auto" title="A Scratch Playground" src="https://scratch.mit.edu/projects/882193436/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe class="mx-auto" title="Rainbow Screen" src="https://scratch.mit.edu/projects/882193436/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
