@@ -1,4 +1,4 @@
-<main>
+<div>
 	<h2 id="introduction">Introduction</h2>
 	<ul>
 		<li><a href="a-guided-tour">A Guided Tour</a></li>
@@ -101,4 +101,4 @@
 	<ul>
 		<li><a href="a-quick-look-at-video-sensing">A Quick Look at Video Sensing</a></li>
 	</ul>
-</main>
+</div>

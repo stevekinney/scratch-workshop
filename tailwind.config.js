@@ -3,6 +3,15 @@ export default {
 	content: ['./src/**/*.{html,js,svelte,ts,md}'],
 	theme: {
 		extend: {
+			backgroundImage: {
+				'rolling-grass': 'url("/assets/grass.png")'
+			},
+			backgroundPosition: {
+				'rolling-grass': 'bottom center'
+			},
+			backgroundSize: {
+				'rolling-grass': 'cover cover'
+			},
 			fontFamily: {
 				sans: [
 					'ui-sans-serif',
