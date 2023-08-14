@@ -26,6 +26,15 @@
 		<li><a href="create-a-custom-block">Create a Custom Block</a></li>
 		<li><a href="using-modulo">Using Modulo</a></li>
 	</ul>
+	<h2 id="some-additional-tricks">Some Additional Tricks</h2>
+	<ul>
+		<li>
+			<a href="broadcasting">Broadcasting</a>
+		</li>
+		<li>
+			<a href="variable-lists">Variable Lists</a>
+		</li>
+	</ul>
 	<h2 id="raining-apples">Raining Apples</h2>
 	<ul>
 		<li><a href="falling">Falling</a></li>
