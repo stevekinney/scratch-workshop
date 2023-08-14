@@ -3,6 +3,7 @@ title: 'Using The Pen And Custom Blocks That Take Inputs'
 ---
 
 <iframe class="mx-auto" title="A Scratch Playground" src="https://scratch.mit.edu/projects/882260216/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 Let's start by creating a reusable block that we can pass some inputs—just like a lot of the standard ones that we've seen so far.
 
 ```scratch
@@ -51,4 +52,10 @@ define draw (number) squares
 
 You can see a solution [here](https://scratch.mit.edu/projects/882262812) if you want.
 
-<iframe class="mx-auto" title="A Scratch Playground" src="https://scratch.mit.edu/projects/882262812/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe class="mx-auto" title="Polygons" src="https://scratch.mit.edu/projects/882262812/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## Further Exploration
+
+If you notice that your algorithm begins to break after a certain number of sides, take a moment to think about why. If you squint at this example, you'll likely get a hint.
+
+<iframe title="More Polygons" src="https://scratch.mit.edu/projects/882496110/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
