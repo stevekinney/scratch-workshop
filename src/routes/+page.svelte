@@ -64,8 +64,8 @@
 	<ul>
 		<li>
 			<a href="moving-with-velocity">Moving with Velocity</a> (<a
-				href="Moving%20Up%20and%20Down%20with%20Velocity%20(Solution">Solution</a
-			>&gt;))
+				href="moving-up-and-down-with-velocity-solution">Solution</a
+			>)
 		</li>
 		<li><a href="finding-direction-with-velocity">Finding Direction with Velocity</a></li>
 	</ul>
