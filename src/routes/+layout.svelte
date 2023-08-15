@@ -2,8 +2,8 @@
 	import '../app.css';
 </script>
 
-<div class="pt-8 bg-gradient-to-t from-blue-100 to-white">
-	<div class="p-16 mx-auto rounded-2xl max-w-fit">
+<div class="w-full pt-8 bg-gradient-to-t to-blue-100 from-blue-300">
+	<div class="w-full max-w-6xl p-16 mx-auto bg-white rounded-2xl">
 		<header class="mx-auto mb-20 max-w-prose drop-shadow-sm">
 			<h1 class="mb-2 text-6xl font-bold text-purple-800">
 				<a href="/">Scratch for Kids</a>
