@@ -2,6 +2,8 @@
 title: 'Basic Movements Part II'
 ---
 
+## Walking the Other Way
+
 A relatively simple solution is doing something like this:
 
 ```scratch

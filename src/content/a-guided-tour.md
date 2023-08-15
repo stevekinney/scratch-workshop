@@ -2,6 +2,8 @@
 title: 'A Guided Tour'
 ---
 
+## Taking a look at what's on screen.
+
 Let's start by taking a look at what's on the screen and then we'll explore each area independently.
 
 ![The Scratch UI](/images/scratch-ui.png)

@@ -25,7 +25,7 @@ forever
 end
 ```
 
-And now, the game will end whenever our enemy catches up the our player. You can see this iteration of the game here.
+And now, the game will end whenever our enemy catches up the our player. You can see this iteration of the game [here](https://scratch.mit.edu/projects/878930247).
 
 <iframe class="mx-auto" title="A Scratch Playground" src="https://scratch.mit.edu/projects/878930247/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 

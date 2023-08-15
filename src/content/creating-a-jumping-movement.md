@@ -2,6 +2,8 @@
 title: 'Creating A Jumping Movement'
 ---
 
+## The Elements of a Jump
+
 There are a number of different ways that we can go about jumping in our games.
 
 - [Simple Jumping](simple-jumping)

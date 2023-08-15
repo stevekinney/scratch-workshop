@@ -2,6 +2,10 @@
 title: 'Keeping Score'
 ---
 
+<script>
+  import Exercise from '../lib/exercise.svelte';
+</script>
+
 ![Variables Pane](/images/variables-pane.png)
 
 In order to keep score, we need a way to store the current value. This is where we'll create a variable.
@@ -33,5 +37,8 @@ forever
 end
 ```
 
-> \[!todo\] Resetting the Score
-> Okay, that's cool. But we have a problem. We want to reset the score back to 0 when the game starts. Can you figure out how to make that work? You can check out [the solution here](resetting-the-score).
+<Exercise>
+ Okay, that's cool. But we have a problem. We want to reset the score back to 0 when the game starts. Can you figure out how to make that work?
+</Exercise>
+
+You can check out [the solution here](resetting-the-score).

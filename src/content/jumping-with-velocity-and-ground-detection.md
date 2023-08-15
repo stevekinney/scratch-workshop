@@ -2,7 +2,7 @@
 title: 'Jumping With Velocity And Ground Detection'
 ---
 
-When we first looked at [jumping with velocity](jumping-with-velocity-but-without-ground-detection), we had to use some math to keep track of where started from in order to land in the same position. In a platform game, we don't necessarily care where we started, we just care that we're on solid ground.
+When we first looked at [jumping](jumping-with-velocity-but-without-ground-detection), we had to use some math to keep track of where started from in order to land in the same position. In a platform game, we don't necessarily care where we started, we just care that we're on solid ground.
 
 ```scratch
 when green flag clicked

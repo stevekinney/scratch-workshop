@@ -2,6 +2,12 @@
 title: 'Creating A Game Loop'
 ---
 
+<script>
+  import ScratchProject from '../lib/scratch-project.svelte';
+</script>
+
+## Over and Over Again
+
 A lot of games have something called a game loop. This is just a way to run some code over and over to check to see what's happening or to update stuff constantly.
 
 Let's go program our _other_ sprite for a moment.

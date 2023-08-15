@@ -25,7 +25,7 @@ forever
 		go to [random position v]
 		change [Score v] by [1]
 		if <((Score) mod [3]) = [0]> then
-			create clone of (Beetle v)
+			create clone of (Enemy v)
 		end
 	end
 end
@@ -38,3 +38,9 @@ And now we'll have fewer clones that spring up. Here is a version of our game.
 ## Further Exploration
 
 There are lots of little tweaks you could do to make this game even better. For example, you can prevent the taco from getting too close to the edges. I'll let y'all explore on your own as I move on to our next game.
+
+**Example**: Here is an example where I customized the way that the enemies follow our [hero](https://scratch.mit.edu/projects/882583391).
+
+<iframe title="Taco Chase with Better Following" src="https://scratch.mit.edu/projects/882583391/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+Let's talk about [Broadcasting](broadcasting).

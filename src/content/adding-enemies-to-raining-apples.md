@@ -2,6 +2,8 @@
 title: 'Adding Enemies To Raining Apples'
 ---
 
+## Not Everything That Comes From the Sky is Good
+
 Okay, let's do a little bit of copy-and-paste action and get something super close to what we have for the apples.
 
 ```scratch
@@ -34,6 +36,8 @@ Let's start by making our falling mechanism reusable.
 
 ```scratch
 define fall
+set [Velocity v] to [0]
+move to top::custom
 forever
 	if <touching [Pico v]> then
 		stop [all v]
@@ -46,10 +50,14 @@ forever
 end
 
 when green flag clicked
-move to top::custom
+fall::custom
+
+when I start as a clone
 fall::custom
 ```
 
 For the apples, we just recycled the same apple. I don't want to program a bunch of lightning bolts. I just want to make copies of the code that I already wrote.
 
-**Next**: [Keeping a Count of Our Clones](keeping-a-count-of-our-clones)
+## What Goes Up Must Come Down
+
+We can go down, but we can't go up yet. But, what goes up must come down, right? Let's talk about [jumping](creating-a-jumping-movement).

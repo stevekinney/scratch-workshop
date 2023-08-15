@@ -2,6 +2,12 @@
 title: 'Basic Movements Part I'
 ---
 
+<script>
+  import Exercise from '../lib/exercise.svelte';
+</script>
+
+## Taking Small Steps in the Right Direction
+
 Let's start with something super simple. We'll have Arnold move ten steps to the right whenever we press the right arrow.
 
 ```scratch
@@ -22,6 +28,8 @@ when green flag clicked
 go to x: (-172) y: (-117)
 ```
 
-## Brief Exercise
+<Exercise>
+  Can you make Arnold go in the opposite direction when the left arrow is pressed?
+</Exercise>
 
-Can you make Arnold go in the opposite direction when the left arrow is pressed? Take a few minutes and we'll talk about the [solution](basic-movements-part-ii).
+Take a few minutes and we'll talk about the [solution](basic-movements-part-ii).

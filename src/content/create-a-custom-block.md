@@ -31,7 +31,7 @@ Changing the block will effect both code paths now. No more repeating ourselves.
 
 ## Adding Some Randomness
 
-We can add a little bit of randomness to our custom block now to make the beetles a little bit more autonomous.
+We can add a little bit of randomness to our custom block now to make the enemies a little bit more autonomous.
 
 ```scratch
 define chase Player

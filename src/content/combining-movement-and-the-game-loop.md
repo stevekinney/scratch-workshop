@@ -2,6 +2,10 @@
 title: 'Combining Movement And The Game Loop'
 ---
 
+<script>
+  import Exercise from '../lib/exercise.svelte';
+</script>
+
 Let's start with some basic set up and make sure that our little player goes where they should whenever the game begins.
 
 ```scratch
@@ -84,8 +88,9 @@ forever
 end
 ```
 
-> \[!todo\] Up and Down Movement
-> Our little player can only go right and left. Can you get him pointed up and down as well? You can start by duplicating what we currently have and tweaking a bit.
+<Exercise>
+  Our little player can only go right and left. Can you get him pointed up and down as well? You can start by duplicating what we currently have and tweaking a bit.
+</Exercise>
 
 **Hint**: There are clues for what direction you should point the player in above, but you can also just use the rotation adjustment in Scratch as well.
 

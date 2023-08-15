@@ -39,4 +39,4 @@ We still have some issues here.
 - You can continue to jump just by holding down the key.
 - It still doesn't feel natural—like, at all.
 
-Let's look at [jumping with velocity and ground Detection](jumping-with-velocity-and-ground-detection).
+Let's look at [jumping with velocity and ground detection](jumping-with-velocity-and-ground-detection).

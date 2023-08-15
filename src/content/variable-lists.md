@@ -2,6 +2,10 @@
 title: Variable Lists
 ---
 
+<script>
+  import Exercise from '../lib/exercise.svelte';
+</script>
+
 So far, we've stored just one variable. But, we can also store lists of variabled.
 
 <iframe title="Variable Lists" src="https://scratch.mit.edu/projects/882504773/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -58,8 +62,12 @@ Here is what we have now.
 
 ## Your Turn
 
+<Exercise>
 Can you create a conversation between the Cat and the Monkey?
+</Exercise>
 
 - Each can have it's own list.
 - They can broadcast back and forth.
 - `i` could be a shared variable or you could try it unique to each sprite.
+
+Now, we'll talk about [falling](falling).
