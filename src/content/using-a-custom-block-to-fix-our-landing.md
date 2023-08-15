@@ -226,3 +226,7 @@ repeat (steps::custom)
     end
 end
 ```
+
+Here is what it looks like now.
+
+<iframe src="https://scratch.mit.edu/projects/882751672/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen title="A Better Platformer"></iframe>
