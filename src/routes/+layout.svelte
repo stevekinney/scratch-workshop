@@ -10,10 +10,9 @@
 			</h1>
 			<p>
 				A <a
-					href="https://frontendmasters.com"
+					href="https://frontendmasters.com/courses/scratch/"
 					target="_blank"
-					class="font-semibold underline decoration-purple-600 decoration-2">Frontend Masters</a
-				> workshop.
+					class="font-semibold underline decoration-purple-600 decoration-2">Watch the course on Frontend Masters</a>
 			</p>
 		</header>
 		<main class="mx-auto prose prose-pre:bg-slate-100">
